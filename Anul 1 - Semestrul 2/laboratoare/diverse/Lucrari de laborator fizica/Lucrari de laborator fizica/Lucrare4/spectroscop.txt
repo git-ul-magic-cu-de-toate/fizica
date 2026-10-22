@@ -1,0 +1,70 @@
+Spectroscopul
+
+1. Scop
+- evidentierea fen. de dispersie a luminii
+- etalonarea unui spectroscop
+- det. spectre de emisie
+- det. spectre de absorbtie
+- det. dispersiei liniare
+
+2. Th. lucrarii
+ - dispersie : fenomenele care apar la trecerea lumminii
+ dintr-un mediu in altul cu indicele de refractie
+ n = f(lambda); ex: prisma, radiatiile sunt deviate
+ cu unghiuri diferite in functie de lungimea de unda
+
+ - spectre de emisie si absorbtie:
+ Un sist. microscopic se car. doar prin anumite stari stationare
+ (discrete), corespunzatoare unor nivele de energie.
+Tranzitia de la o stare stationara in alta se poate
+face primind sau cedand energie (absoarbe\emite un foton).
+Trecerea de la nivelul de energie E1 la E2 cu E1 > E2 Se face emitand un
+foton cu energia hf = E1 - E2 (h - ct Planck, f - frecv).
+Daca E1 < E2, se absoarbe un foton cu ac. energie.
+Totaliatea rad. emise de un sist. microscopic = spectru de emisie
+Analog pt. spectru de absorbtie
+
+3. Modul de lucru
+a. spectru de emisie
+Sunt 3 surse de lumina spectrale (Hg, He, Ne), un bec si un spectroscop.
+Se observa spectrul de emisie pentru Hg si se realizeaza
+curba de etalonare a spectroscopului.
+Cum?
+Trebuie sa pornesti becul si sursa de lumina cu Hg, sa pui
+spectroscopul in fata sursei de lumina cu Hg, si becul in fata
+tubului ocular al spectroscopului (undeva in dreapta, becul asta se
+pune ca sa luminezi divizunile pt. masurare).
+Posibil sa fie nevoie sa reglezi divizunile ca sa se vada clar.
+O sa se observe prin luneta mai multe linii spectrale. Se noteaza
+pozitia x la care apar intr-un tabel si culoarea respectiva
+(cu lambda dat).
+Se procedeaza la fel pentru celalalte substante, se noteaza
+doar pozitia x, lambda trebuie sa fie determinat din curba de etalonare.
+
+Curba de etalonare se face facand graficul lambda = f(x) pentru
+masuratorile de la Hg (eu am am facut o fn. de gradul 2, nu liniara).
+Se determina valorile lambda pentru celalalte masuratori din grafic.
+
+b. spectru de absorbtie
+Se aseaza sticlutele colorate pe un stativ si se ilumineaza
+cu un bec. (din spate)
+Se pune spectroscopul ca inainte in fata sticlutei si se observa
+spectrul de absorbtie (din spectru luminii/curcubeu dispar anumite portiuni).
+Se noteaza capetele stanga si dreapta pentru portiunile din spectru
+care dispar (sunt absorbite).
+Se completeaza si lambda pentru spectrul de absorbtie specifice capetelor
+stanga si dreapta masurate anterior (din curba de etalonare).
+
+c. Dispersia liniara
+D - dispersia liniara
+D = dx/d lambda
+Se calculeaza D in punctele lambda = 420, 500, 580.
+(se duce tangenta la grafic in punct, si se ia inversul pantei).
+
+
+
+
+
+
+
+

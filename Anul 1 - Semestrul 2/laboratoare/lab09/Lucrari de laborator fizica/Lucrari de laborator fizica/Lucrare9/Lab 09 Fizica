@@ -1,0 +1,53 @@
+Lab 09 Fizica
+
+Determinarea indicelui de refractie prin metoda Chaulnes
+
+Lab-ul este fix in prima banca pe stanga, cum se priveste spre catedra. Este un singur 
+dispozitiv ce arata, sau chiar este (idfk) un microscop. Pe microscopul asta sunt puse 
+2 chestii gradate. Pe prima chestie gradata (aia din stanga) sunt puse valorile 0 si 1 
+si intre ele sunt puse gradatii din 0.1 in 0.1. Pe cealalta chestie gradata (aia din 
+dreapta) sunt puse valorile de la 1 la 6 (parca) si, la fel ca la prima, diviziunile 
+merg din 0.1 in 0.1. Se iau 3 bucatele transparente din sticla, plexiglas si "etalonul" 
+(care nu stiu din ce material e facut). Se aseaza etalonul pe "suportul" acela de pe 
+care o sa se vada la microscop si se masoara "inaltimea" la care se afla microscopul 
+astfel incat sa se vada foarte clar materialul respectiv. Inaltimea se masoara cu 
+gradatiile, in felul urmator: se vede unde este plasata linia lui 0 de pe gradatia din 
+stanga pe cealalta gradatie (de exemplu, este asezata intre 3.30 si 3.40) si apoi se 
+gaseste suprapunerea perfecta a liniilor dintre cele 2 gradatii (de exemplu, 
+suprapunerea perfecta este la 6 pe prima gradatie). Asadar, inaltimea este de 3.36. 
+Aceasta se noteaza cu h0 si se fac 5 sau 10 masuratori de acest fel (eu am avut 5 de 
+facut)
+
+Tip 1: Pe suprafata aia pe care se pune etalonul este o mica fanta, puteti pune jos un 
+blit ca sa se vada mai bine.
+
+Tip 2: Pe microscopul ala, sau ce o fi el exista o rotita in partea de sus, poti sa 
+rotesti de el ca sa focalizezi mai bine imaginea sau nu.
+
+Tip 3: Puteti pune placutele transparente cu semnul ala la vedere ca sa vedeti mai bine
+
+Tip 4: PUNETI NEAPARAT PLACUTA CU SEMNUL FACUT DEASUPRA!!!!!!!!!!!!! Eu am facut asta 
+si au iesit niste masuratori de au intrat la loc :))))
+
+Apoi, se pune o placuta, una dintre cele de sticla sau plexiglas deasupra etalonului si 
+se are in vedere faptul ca semnul facut pe etalon sa fie vizibil la microscop.
+
+Tip 5: Focalizati microscopul pe punct, nu pe cealalta placuta, ca iar ies masuratorile 
+prost
+
+Tip 6: PUNETI PLACUTA CU SEMNUL DEASUPRA, CA LA ETALON!!!!!!!!!!!!
+
+Se masoara inaltimea, care va fi denumita cu h1 si se fac 5 - 10 masuratori (eu tot 5 
+am facut). Apoi se muta etalonul astfel incat sa se vada semnul de pe ea la microscop. 
+Se efectueaza iar masuratorile si inaltimile se noteaza cu h2.
+
+La fel se face si cu placuta confectionata din celalalt material si se trec valorile in 
+tabel.
+
+Se face media la h0, h1 si h2 pentru fiecare material in parte si se calculeaza d, e si 
+n (formulele sunt in poze). Se calculeaza abaterea patratica medie (aia cu radical, se 
+gaseste si ea prin poze) pentru fiecare h si abaterea patratica pentru n folosind o 
+formula cu derivate partiale (also, si ea se gaseste).
+
+Tip 7: Indicele de refractie al sticlei este intre 1.46 si 1.52, iar indicele de 
+refractie al plexiglas-ului este intre 1.50 si 1.52.
